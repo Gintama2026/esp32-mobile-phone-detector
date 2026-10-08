@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Mobile Phone Detection System"
+type: software
+authors:
+  - family-names: Shedge
+    given-names: Vishva
+  - family-names: Lashkar
+    given-names: Shubham
+  - family-names: Pawar
+    given-names: Swaraj
+  - family-names: Shinde
+    given-names: Aaditya
+version: "1.0.0"
+date-released: 2026-10-07
+license: MIT
+preferred-citation:
+  type: article
+  title: "Mobile Phone Detection System Using ESP32, HMC5883L, NRF24L01, LCD Display, and Buzzer"
+  authors:
+    - family-names: Shedge
+      given-names: Vishva
+    - family-names: Lashkar
+      given-names: Shubham
+    - family-names: Pawar
+      given-names: Swaraj
+    - family-names: Shinde
+      given-names: Aaditya
+  journal: "International Journal of Scientific Research & Engineering Trends"
+  volume: 12
+  issue: 2
+  year: 2026
